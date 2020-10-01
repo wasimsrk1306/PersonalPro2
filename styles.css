@@ -1,0 +1,271 @@
+body {
+  background-image: url(images/back.jpg);
+  height: 1500px;
+  color: white;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+#contb {
+  height: 600px;
+}
+
+header {
+  margin: 25px auto;
+}
+
+h1 {
+  display: block;
+  width: 100%;
+  margin: 100px auto;
+  text-align: center;
+  font-size: 4.625rem;
+  font-family: 'Baloo Bhai 2', cursive;
+  color: lightyellow;
+}
+
+h3 {
+  display: block;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  padding: 5px;
+  font-size: 2.2875rem;
+  color: khaki;
+}
+
+.h3 {
+  color: khaki;
+}
+
+.mid {
+  display: block;
+  width: 100%;
+  margin: 65px auto;
+}
+
+.introp {
+  display: block;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 1.45rem
+}
+
+.o {
+  list-style: none;
+  display: block;
+  width: 50%;
+  margin: 15px auto;
+  text-align: center;
+  font-size: 1.5625rem;
+  text-decoration: underline;
+}
+
+.t {
+  list-style: none;
+  display: block;
+  width: 50%;
+  margin: 15px auto;
+  text-align: center;
+  font-size: 1.5625rem;
+  text-decoration: underline;
+}
+
+.T {
+  list-style: none;
+  display: block;
+  width: 50%;
+  margin: 15px auto;
+  text-align: center;
+  font-size: 1.5625rem;
+  text-decoration: underline;
+}
+
+.f {
+  list-style: none;
+  display: block;
+  width: 50%;
+  margin: 15px auto;
+  text-align: center;
+  font-size: 1.5625rem;
+  text-decoration: underline;
+}
+
+ul {
+  display: block;
+  margin: 35px auto;
+  width: 90%;
+}
+
+.bottom {
+  display: block;
+  width: 100%;
+}
+
+a {
+  color: #d00e30;
+  text-decoration: none;
+}
+
+#education {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.25rem;
+}
+
+.footer-link {
+  margin: 10px 40px 10px 40px;
+  font-size: 1.25rem;
+}
+
+.bottomcontainer {
+  text-align: center;
+  position: relative;
+  top: 180px;
+}
+
+.footer-link:hover {
+  color: silver;
+}
+
+.pad:hover {
+  color: silver;
+}
+
+img {
+  width: 80%;
+  display: block;
+  padding: 15px 15px;
+}
+
+.pic {
+  width: 95%;
+  background-color: transparent;
+  display: block;
+  margin: 100px auto;
+  border-radius: 35px;
+}
+
+.logo {
+  width: 65px;
+  height: 65px;
+  display: block;
+  padding: 0 0;
+}
+
+#logo {
+  display: block;
+  width: 15%;
+}
+
+.logp {
+  margin-top: 0;
+}
+
+button {
+  display: block;
+  width: 35%;
+  margin: 80px auto;
+  border: 2px solid khaki;
+  border-radius: 6px;
+  background-color: khaki;
+  color: #d00e30;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+.but:hover {
+  color: blanchedalmond;
+}
+
+.but {
+  font-size: 1.15rem;
+  margin: 5px auto;
+}
+
+.container {
+  display: block;
+  margin: 60px auto;
+  width: 50%;
+  text-align: center;
+  border: 2px solid yellow;
+  border-radius: 20px;
+}
+
+.contact {
+  font-size: 2.2875rem;
+}
+
+.copyrightcont {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: 450px;
+}
+
+.C_ {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 7px;
+  border: 2px solid transparent;
+  text-align: center;
+  padding: 5px;
+}
+
+.C_mail {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 7px;
+  border: 2px solid transparent;
+  text-align: center;
+  padding: 5px;
+}
+
+.labnam {
+  display: block;
+}
+
+.labdob {
+  display: block;
+}
+
+.C_dob {
+  margin-top: 10px;
+  border: 2px solid transparent;
+  border-radius: 7px
+}
+
+.labmas {
+  display: block;
+}
+
+.C_text {
+  border: 2px solid transparent;
+  border-radius: 7px
+}
+
+.thank {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.contbut {
+  display: block;
+  width: 30%;
+  margin: 25px auto;
+  border: 2px solid transparent;
+  background-color: yellow;
+}
+
+.contbutp {
+  font-size: 1rem;
+  margin: 3px 20px;
+  cursor: pointer;
+}
+
+.contbut:hover {
+  color: blanchedalmond;
+}
